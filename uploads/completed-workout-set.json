@@ -1,0 +1,119 @@
+{
+  "Thu Nov 07 2024 23:36:24 GMT+0300 (Москва, стандартное время)": [
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "123123",
+      "description": "123123"
+    },
+    {
+      "name": "123",
+      "description": "1233333"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    }
+  ],
+  "Fri, 08 Nov 2024 21:00:00 GMT": [
+    {
+      "name": "11",
+      "description": "11",
+      "sets": "1",
+      "weighing": "1"
+    },
+    {
+      "name": "123123",
+      "description": "123123"
+    },
+    {
+      "name": "123",
+      "description": "1233333"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    }
+  ],
+  "Sat, 09 Nov 2024 21:00:00 GMT": [
+    {
+      "name": "13333222111",
+      "description": "13333222111",
+      "sets": "13333222111",
+      "weighing": "13333222111"
+    },
+    {
+      "name": "66456",
+      "description": "66456",
+      "sets": "66456",
+      "weighing": "66456"
+    },
+    {
+      "name": "12333333333",
+      "description": "12333333333",
+      "sets": "12333333333",
+      "weighing": "12333333333"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    }
+  ],
+  "Wed, 06 Nov 2024 21:00:00 GMT": [
+    {
+      "name": "Жим лежа ногами",
+      "description": "Мощно сильно жмем",
+      "sets": "3",
+      "weighing": "50"
+    },
+    {
+      "name": "Сгибание ног",
+      "description": "Сгибание мощное",
+      "sets": "3",
+      "weighing": "30"
+    },
+    {
+      "name": "Разгибание ног",
+      "sets": "3",
+      "weighing": "30"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    },
+    {
+      "name": "1",
+      "description": "1"
+    }
+  ]
+}
